@@ -1,0 +1,6 @@
+# Code owners — GitHub will request reviews from these users for changes in the specified paths
+# Format: <pattern> @github-username
+
+* @veluxecircle
+.github/ @veluxecircle
+src/ @veluxecircle

@@ -1,0 +1,10 @@
+{
+  "name": "1st-test-advanced",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "devDependencies": {}
+}
